@@ -1,0 +1,8 @@
+@font-face {
+    font-family: myCustomFont;
+    src: url("./Font/lombardia/LombardiaScript_PERSONAL_USE_ONLY.otf");
+}
+.font{
+    font-family: myCustomFont;
+    font-size:xx-large;
+}
